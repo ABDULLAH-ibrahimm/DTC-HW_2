@@ -46,6 +46,7 @@ How would you configure the timezone to New York in a Schedule trigger?
 - Add a timezone property set to America/New_York in the Schedule trigger configuration
 - Add a timezone property set to UTC-5 in the Schedule trigger configuration
 - Add a location property set to New_York in the Schedule trigger configuration# DTC-HW_2
-- - select answer is >>
+  
+  #  select answer is >> Add a timezone property set to America/New_York in the Schedule trigger configuration.
 
   
